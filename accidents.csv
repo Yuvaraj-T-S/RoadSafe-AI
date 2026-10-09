@@ -1,0 +1,1201 @@
+id,date,time,lat,lng,road,location,severity,fatalities,injuries,weather,roadCondition,lighting,vehicle,factor
+RSA-00001,2024-01-01,00:00,12.85,77.67999999999999,Hosur Road,Electronic City,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00002,2025-06-14,07:17,12.893872369114613,77.5768831974452,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00003,2026-11-27,14:34,12.956565021536148,77.63442524242596,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00004,2024-04-13,22:51,13.052314279704309,77.57515742945284,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00005,2025-09-26,05:08,12.965103474904282,77.51875186068276,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00006,2026-02-12,12:25,13.063092033714847,77.52615010738668,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00007,2024-07-25,20:42,12.88030404450173,77.61309696231133,Bannerghatta Road,Arekere,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00008,2025-12-11,03:59,12.928367524738189,77.68528512329257,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00009,2026-05-24,10:16,12.8694110578449,77.63899060387594,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00010,2024-10-10,18:33,12.8807754683951,77.56271582946691,Kanakapura Road,Konanakunte,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00011,2025-03-23,01:50,12.946404060240686,77.66352140592282,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00012,2026-08-09,08:07,12.968730396271933,77.66457020196715,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00013,2024-01-22,16:24,13.081971697391587,77.59215304217845,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00014,2025-06-08,23:41,12.942488489444433,77.50001359807227,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00015,2026-11-21,06:58,13.032958702602297,77.49729949650623,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00016,2024-04-07,14:15,12.911426913292019,77.6091635186344,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00017,2025-09-20,21:32,12.94967922574477,77.71243840540248,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00018,2026-02-06,04:49,12.839177327063455,77.66103409585216,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00019,2024-07-19,12:06,12.870096106248214,77.55317438775958,Kanakapura Road,Konanakunte,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00020,2025-12-05,19:23,12.97897752111138,77.63315909435589,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00021,2026-05-18,02:40,13.066435575375095,77.59861626041902,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00022,2024-10-04,10:57,12.935664850418874,77.53814659513387,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00023,2025-03-17,17:14,12.960755895714415,77.52779893961828,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00024,2026-08-03,00:31,13.066119923854139,77.49488581410867,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00025,2024-01-16,08:48,12.88369158872857,77.58081051688376,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00026,2025-06-02,15:05,12.924265566271794,77.69255026420386,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00027,2026-11-15,22:22,12.867324096982534,77.6766773719896,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00028,2024-04-01,06:39,12.88553912702305,77.58346400740169,Kanakapura Road,Konanakunte,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00029,2025-09-14,13:56,12.946980636437704,77.64125716813092,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00030,2026-02-27,20:13,13.068783926087908,77.57227257648493,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00031,2024-07-13,04:30,12.96796346882337,77.51169321852568,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00032,2025-12-26,11:47,13.042120504609931,77.52325282883179,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00033,2026-05-12,18:04,12.880498285908113,77.61746669667522,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00034,2024-10-25,02:21,12.907575007688415,77.59834816339745,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00035,2025-03-11,09:38,12.953360943042219,77.67423193814183,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00036,2026-08-24,16:55,12.841861892649117,77.64344982960587,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00037,2024-01-10,00:12,12.865563209844455,77.57831012272646,Kanakapura Road,Konanakunte,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00038,2025-06-23,07:29,12.97773017379692,77.6694272486961,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00039,2026-11-09,14:46,13.071363960709373,77.60043936067055,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00040,2024-04-22,22:03,12.935349584159358,77.50323358720686,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00041,2025-09-08,05:20,13.05092746996185,77.490024311234,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00042,2026-02-21,12:37,12.917966110102688,77.59915339236088,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00043,2024-07-07,20:54,12.928134655282047,77.71419051788942,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00044,2025-12-20,03:11,12.835874056364066,77.67181129849389,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00045,2026-05-06,10:28,12.864092943330553,77.64889787934901,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00046,2024-10-19,18:45,12.889755119436451,77.54855392773912,Kanakapura Road,Konanakunte,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00047,2025-03-05,01:02,12.94887505066569,77.64308730927553,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00048,2026-08-18,08:19,13.063967283119284,77.60854303619554,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00049,2024-01-04,16:36,12.967596238687793,77.53682362622682,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00050,2025-06-17,23:53,13.047053583034737,77.5056622973533,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00051,2026-11-03,06:10,12.87930141445965,77.57926089960951,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00052,2024-04-16,14:27,12.943221414114088,77.68253957156182,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00053,2025-09-02,21:44,12.870801595089597,77.66940349548565,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00054,2026-02-15,04:01,12.87057823051929,77.58668553573811,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00055,2024-07-01,12:18,12.946744240841818,77.65284332197385,Old Airport Road,Domlur,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00056,2025-12-14,19:35,12.975224693519516,77.63212796162506,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00057,2026-05-27,02:52,13.075977327313913,77.57818086488672,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00058,2024-10-13,10:09,12.936392331961715,77.52398769487844,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00059,2025-03-26,17:26,13.045983485566762,77.52770974503002,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00060,2026-08-12,00:43,12.918490921774945,77.60641161171074,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00061,2024-01-25,08:00,12.932912240788408,77.68190026184621,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00062,2025-06-11,15:17,12.833834444314665,77.64055109427147,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00063,2026-11-24,22:34,12.884962045381652,77.56795180837594,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00064,2024-04-10,06:51,12.978104490518446,77.66654409617277,Old Airport Road,Domlur,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00065,2025-09-23,13:08,13.056943983617533,77.60727222254299,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00066,2026-02-09,20:25,12.944644863875892,77.50981339259053,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00067,2024-07-22,04:42,12.965897789276505,77.50000000033731,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00068,2025-12-08,11:59,13.051914519444457,77.50202021276976,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00069,2026-05-21,18:16,12.879458635922864,77.61337729211687,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00070,2024-10-07,02:33,12.938310628438153,77.71154104430789,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00071,2025-03-20,09:50,12.872201406982265,77.65684447029065,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00072,2026-08-06,16:07,12.875045186235486,77.54834869159265,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00073,2024-01-19,00:24,12.943928118096196,77.6369058139729,Old Airport Road,Domlur,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00074,2025-06-05,07:41,13.076650628949167,77.60361814139495,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00075,2026-11-18,14:58,12.964926657273072,77.53880904654653,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00076,2024-04-04,22:15,13.033714206172805,77.51398064599769,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00077,2025-09-17,05:32,12.891297972879745,77.58207632379793,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00078,2026-02-03,12:49,12.917654654964489,77.57993163502486,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00079,2024-07-16,20:06,12.937862903576493,77.69785059357322,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00080,2025-12-02,03:23,12.833101034172502,77.67888726746169,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00081,2026-05-15,10:40,12.880243920547828,77.5804975111106,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00082,2024-10-01,18:57,12.980333848198999,77.63753339153412,Old Airport Road,Domlur,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00083,2025-03-14,01:14,13.060955259384858,77.57316229024795,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00084,2026-08-27,08:31,12.941143675050279,77.51346951107001,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00085,2024-01-13,16:48,13.057996614447495,77.52682759768646,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00086,2025-06-26,23:05,12.906335566369792,77.61573877454316,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00087,2026-11-12,06:22,12.921158055923845,77.68918017004555,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00088,2024-04-25,14:39,12.848214169407694,77.63855288266089,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00089,2025-09-11,21:56,12.872254477873627,77.6478042417517,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00090,2026-02-24,04:13,12.879924818396779,77.57961707287167,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00091,2024-07-10,12:30,12.942327891506958,77.66918844769576,Old Airport Road,Domlur,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00092,2025-12-23,19:47,13.072278371033226,77.59634607916728,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00093,2026-05-09,02:04,12.967913169451803,77.50112094538646,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00094,2024-10-22,10:21,13.03713954858746,77.49323839849957,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00095,2025-03-08,17:38,12.887225407929241,77.60434630284692,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00096,2026-08-21,00:55,12.955720576288547,77.71222759766016,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00097,2024-01-07,08:12,12.857412108051054,77.66830343994198,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00098,2025-06-20,15:29,12.858729311074802,77.55564451319613,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00099,2026-11-06,22:46,12.960295512084706,77.630334669134,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00100,2024-04-19,06:03,12.981274533484026,77.64835550980759,Old Airport Road,Domlur,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00101,2025-09-05,13:20,13.065605410407557,77.61136942641478,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00102,2026-02-18,20:37,12.9387285942754,77.53104751149094,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00103,2024-07-04,04:54,13.054112198598714,77.5016865363017,Tumakuru Road,Peenya,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00104,2025-12-17,11:11,12.909982255576354,77.57947292679673,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00105,2026-05-03,18:28,12.923886237901337,77.68736411074858,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00106,2024-10-16,02:45,12.843702471907106,77.67346881767467,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00107,2025-03-02,09:02,12.895956792758273,77.58557400494281,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00108,2026-08-15,16:19,12.969847965132454,77.64534295113855,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00109,2024-01-01,00:36,13.047064624019368,77.57580844798468,Bellary Road,Hebbal,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00110,2025-06-14,07:53,12.952438696940575,77.50709158932047,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00111,2026-11-27,14:10,12.969710923372139,77.52890530134631,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00112,2024-04-13,22:27,13.041409219628797,77.52814554872013,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00113,2025-09-26,05:44,12.884073895024354,77.60250912087098,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00114,2026-02-12,12:01,12.952450136538946,77.67595483380259,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00115,2024-07-25,20:18,12.861600559668922,77.64317836035424,Hosur Road,Electronic City,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00116,2025-12-11,03:35,12.860671743595239,77.57324130931347,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00117,2026-05-24,10:52,12.955491185039675,77.66853979471607,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00118,2024-10-10,18:09,13.085855380119984,77.6041573378773,Bellary Road,Hebbal,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00119,2025-03-23,01:26,12.955542635895345,77.50619351291385,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00120,2026-08-09,08:43,13.032582331171021,77.48781533110704,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00121,2024-01-22,16:00,12.89953841187733,77.59716031396977,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00122,2025-06-08,23:17,12.912578701799656,77.61677387419844,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00123,2026-11-21,06:34,12.927636784994032,77.70961686377353,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00124,2024-04-07,14:51,12.839916862215574,77.65270878096635,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00125,2025-09-20,21:08,12.893406526221693,77.54788990673559,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00126,2026-02-06,04:25,12.974442172536426,77.63809165359496,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00127,2024-07-19,12:42,13.048158232773696,77.60810251355437,Bellary Road,Hebbal,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00128,2025-12-05,19:59,12.947497745569112,77.53834770343286,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00129,2026-05-18,02:16,13.065183912429818,77.5098445225334,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00130,2024-10-04,10:33,12.896200203197067,77.58015437881534,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00131,2025-03-17,17:50,12.922281857546412,77.67833031297623,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00132,2026-08-03,00:07,12.86309075634415,77.66469001712285,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00133,2024-01-16,08:24,12.864911386874306,77.67999999865076,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00134,2025-06-02,15:41,12.863781379668723,77.57687637676463,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00135,2026-11-15,22:58,12.951194404178281,77.63442017382867,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00136,2024-04-01,06:15,13.084108098579073,77.57516048254496,Bellary Road,Hebbal,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00137,2025-09-14,13:32,12.960393416833476,77.51875919870369,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00138,2026-02-27,20:49,13.032791604698314,77.52615250879042,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00139,2024-07-13,04:06,12.894621277837272,77.61309140930119,Bannerghatta Road,Arekere,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00140,2025-12-26,11:23,12.954128474465975,77.68527859422676,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00141,2026-05-12,18:40,12.846925954711677,77.63899130370255,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00142,2024-10-25,02:57,12.862143735436115,77.56272287872766,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00143,2025-03-11,09:14,12.974796615176823,77.66352594595091,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00144,2026-08-24,16:31,12.978359872156066,77.66456652739892,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00145,2024-01-10,00:48,13.050525982301318,77.59214577077125,Bellary Road,Hebbal,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00146,2025-06-23,07:05,12.942829317810196,77.50001186765995,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00147,2026-11-09,14:22,13.064296353287165,77.49730548166379,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00148,2024-04-22,22:39,12.901150044009134,77.60916969793251,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00149,2025-09-08,05:56,12.921600000355452,77.7124370134392,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00150,2026-02-21,12:13,12.858357107901355,77.66102688188026,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00151,2024-07-07,20:30,12.892094113581232,77.55317041743511,Kanakapura Road,Konanakunte,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00152,2025-12-20,03:47,12.9528229640481,77.63316335710721,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00153,2026-05-06,10:04,13.052730236556485,77.5986233993307,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00154,2024-10-19,18:21,12.966164877046996,77.53814763887657,Mysuru Road,Nayandahalli,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00155,2025-03-05,01:38,12.964790774050911,77.52779257654115,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00156,2026-08-18,08:55,13.034340582555938,77.4948800405651,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00157,2024-01-04,16:12,12.889732795502393,77.58081258837197,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00158,2025-06-17,23:29,12.954129458377677,77.69255757752552,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00159,2026-11-03,06:46,12.851814125083576,77.67668073663778,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00160,2024-04-16,14:03,12.86059288866732,77.58345919508946,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00161,2025-09-02,21:20,12.970400162486824,77.64125022639604,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00162,2026-02-15,04:37,13.086304675806227,77.57227222886857,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00163,2024-07-01,12:54,12.938988743762987,77.51169990187044,Mysuru Road,Nayandahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00164,2025-12-14,19:11,13.03378659715549,77.52325814431028,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00165,2026-05-27,02:28,12.912115393012366,77.61746396443057,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00166,2024-10-13,10:45,12.905884268655218,77.59834081698756,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00167,2025-03-26,17:02,12.922279908420963,77.67422920965495,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00168,2026-08-12,00:19,12.853407308883511,77.6434551478776,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00169,2024-01-25,08:36,12.892983608597891,77.5783168043897,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00170,2025-06-11,15:53,12.957490736216835,77.66942689703659,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00171,2026-11-24,22:10,13.050360759018904,77.60043241761184,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00172,2024-04-10,06:27,12.962248380907289,77.50322877795375,Mysuru Road,Nayandahalli,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00173,2025-09-23,13:44,13.063402031525579,77.49002767947991,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00174,2026-02-09,20:01,12.887112078951043,77.59916070529768,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00175,2024-07-22,04:18,12.925442796291136,77.71419258549383,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00176,2025-12-08,11:35,12.867581579098273,77.67180552244828,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00177,2026-05-21,18:52,12.856731488292413,77.64889151829586,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00178,2024-10-07,02:09,12.860381649091941,77.54855497548833,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00179,2025-03-20,09:26,12.965549775742987,77.64309444914136,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00180,2026-08-06,16:43,13.088053798410401,77.60854729564957,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00181,2024-01-19,00:00,12.943284546695201,77.53681965249727,Mysuru Road,Nayandahalli,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00182,2025-06-05,07:17,13.030675430084882,77.50565508414762,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00183,2026-11-18,14:34,12.908806029160237,77.57925951162086,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00184,2024-04-04,22:51,12.950244715870502,77.68254575304812,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00185,2025-09-17,05:08,12.839070144231865,77.66940947829512,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00186,2026-02-03,12:25,12.873615829538515,77.58668380139223,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00187,2024-07-16,20:42,12.977512578400205,77.65283604999082,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00188,2025-12-02,03:59,12.96243156228104,77.63212429056239,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00189,2026-05-15,10:16,13.049265231135005,77.57818540809637,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00190,2024-10-01,18:33,12.957654907297478,77.52399474299855,Mysuru Road,Nayandahalli,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00191,2025-03-14,01:50,13.065953984532017,77.5277104408272,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00192,2026-08-27,08:07,12.890896420129533,77.60640508079041,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00193,2024-01-13,16:24,12.921690964928406,77.681894711487,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00194,2025-06-26,23:41,12.86498680858381,77.64055349950021,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00195,2026-11-12,06:58,12.886306027976884,77.56795914658916,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00196,2024-04-25,14:15,12.946525997749994,77.66654714558281,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00197,2025-09-11,21:32,13.065612404294123,77.60726715101646,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00198,2026-02-24,04:49,12.973474912499773,77.50980657341469,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00199,2024-07-10,12:06,12.948088398025888,77.5000000030358,Mysuru Road,Nayandahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00200,2025-12-23,19:23,13.028731187671006,77.50202703395144,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00201,2026-05-09,02:40,12.904618627108768,77.6133823597374,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00202,2024-10-22,10:57,12.95351663273382,77.71153798998861,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00203,2025-03-08,17:14,12.84222013923077,77.65683713233429,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00204,2026-08-21,00:31,12.869345162656808,77.54834629146409,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00205,2024-01-07,08:48,12.975716658130985,77.6369113678663,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00206,2025-06-20,15:05,13.072271650829299,77.60362466984215,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00207,2026-11-06,22:22,12.934526533562522,77.53880834537684,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00208,2024-04-19,06:39,13.047731969156002,77.5139735963572,Tumakuru Road,Peenya,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00209,2025-09-05,13:56,12.91725356856973,77.58207178483067,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00210,2026-02-18,20:13,12.895407306956,77.57993531076137,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00211,2024-07-04,04:30,12.918961141064134,77.69785786478799,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00212,2025-12-17,11:47,12.86134145063456,77.6788889965627,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00213,2026-05-03,18:04,12.890191663618674,77.58049152517074,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00214,2024-10-16,02:21,12.948939360515109,77.63752721296582,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00215,2025-03-02,09:38,13.060961578197464,77.573163683536,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00216,2026-08-15,16:55,12.972536159266161,77.51347672529681,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00217,2024-01-01,00:12,13.048036868979018,77.52683156687564,Tumakuru Road,Peenya,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00218,2025-06-14,07:29,12.87810095890396,77.61573451069304,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00219,2026-11-27,14:46,12.940069979010245,77.68917303145238,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00220,2024-04-13,22:03,12.870452486867693,77.63855184025377,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00221,2025-09-26,05:20,12.846291584871437,77.64781060550305,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00222,2026-02-12,12:37,12.865918399677074,77.57962284558083,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00223,2024-07-25,20:54,12.972731715672138,77.6691863749131,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00224,2025-12-11,03:11,13.076644831608649,77.59633876571783,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00225,2026-05-24,10:28,12.936124897825112,77.50111758193775,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00226,2024-10-10,18:45,13.042852004608038,77.49324321183117,Tumakuru Road,Peenya,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00227,2025-03-23,01:02,12.917202465392865,77.60435324414004,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00228,2026-08-09,08:19,12.940503474481702,77.7122279439288,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00229,2024-01-22,16:36,12.832259845774322,77.66829675603715,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00230,2025-06-08,23:53,12.881921289800566,77.55563919864908,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00231,2026-11-21,06:10,12.978094432788852,77.63033740263106,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00232,2024-04-07,14:27,12.952439157741193,77.64836285621698,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00233,2025-09-20,21:44,13.05694914931509,77.61137215364886,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00234,2026-02-06,04:01,12.97030855879641,77.5310421922885,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00235,2024-07-19,12:18,13.052755589779606,77.50167985519941,Tumakuru Road,Peenya,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00236,2025-12-05,19:35,12.878832422875714,77.57947327980393,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00237,2026-05-18,02:52,12.935119337315975,77.68737105424809,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00238,2024-10-04,10:09,12.87129069316047,77.67347362590775,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00239,2025-03-17,17:26,12.875976461524616,77.58557063549789,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00240,2026-08-03,00:43,12.948594787647101,77.64533563833052,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00241,2024-01-16,08:00,13.073783572746626,77.57580638167502,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00242,2025-06-02,15:17,12.965220257632245,77.50709736619972,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00243,2026-11-15,22:34,12.938939401869272,77.5289116617244,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00244,2024-04-01,06:51,13.038384200670558,77.52814449963549,Tumakuru Road,Peenya,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00245,2025-09-14,13:08,12.915804541142094,77.60250198068756,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00246,2026-02-27,20:25,12.945414509875627,77.67595057544794,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00247,2024-07-13,04:42,12.832100657492626,77.64318233521855,Hosur Road,Electronic City,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00248,2025-12-26,11:59,12.87706072728019,77.57324852226326,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00249,2026-05-12,18:16,12.97979473047177,77.66854118137975,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00250,2024-10-25,02:33,13.061760617074837,77.60415115566201,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00251,2025-03-11,09:50,12.938878672444439,77.50618753088747,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00252,2026-08-24,16:07,13.061960637145235,77.48781706676401,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00253,2024-01-10,00:24,12.906887572084978,77.59716758614424,Bannerghatta Road,Arekere,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00254,2025-06-23,07:41,12.880870241683896,77.61677754409234,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00255,2026-11-09,14:58,12.93034123602538,77.70961231950365,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00256,2024-04-22,22:15,12.870767838266046,77.65270173322693,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00257,2025-09-08,05:32,12.88092034128013,77.5478892122816,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00258,2026-02-21,12:49,12.947550116244352,77.638098185133,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00259,2024-07-07,20:06,13.069170920686098,77.60810806302956,Bellary Road,Hebbal,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00260,2025-12-20,03:23,12.967727434953854,77.53834529692928,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00261,2026-05-06,10:40,13.037757118256268,77.50983718425658,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00262,2024-10-19,18:57,12.884666562915502,77.58015133063287,Bannerghatta Road,Arekere,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00263,2025-03-05,01:14,12.953365553857056,77.67833538547883,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00264,2026-08-18,08:31,12.864768875498626,77.66469683579665,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00265,2024-01-04,16:48,12.833295619389906,77.67999999460302,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00266,2025-06-17,23:05,12.872127482256653,77.57686955508207,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00267,2026-11-03,06:22,12.98016392298099,77.63441510718506,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00268,2024-04-16,14:39,13.066576804444157,77.57516353809129,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00269,2025-09-02,21:56,12.93698244029695,77.51876653659522,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00270,2026-02-15,04:13,13.05774567672797,77.52615490764374,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00271,2024-07-01,12:30,12.910120216447638,77.61308585452471,Bannerghatta Road,Arekere,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00272,2025-12-14,19:47,12.924260246944794,77.6852720663984,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00273,2026-05-27,02:04,12.84089715583057,77.63899200621532,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00274,2024-10-13,10:21,12.893923478053503,77.56272992874763,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00275,2025-03-26,17:38,12.970749201703747,77.66353048385719,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00276,2026-08-12,00:55,12.94786341864932,77.66456285049428,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00277,2024-01-25,08:12,13.06424272334835,77.59213849974915,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00278,2025-06-11,15:29,12.968976686515933,77.50001013987031,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00279,2026-11-24,22:46,13.042289222895128,77.49731146838573,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00280,2024-04-10,06:03,12.88198034412237,77.60917587577079,Bannerghatta Road,Arekere,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00281,2025-09-23,13:20,12.949685152497082,77.71243561882642,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00282,2026-02-09,20:37,12.8686220170733,77.66101966739879,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00283,2024-07-22,04:54,12.860754328264683,77.55316644938137,Kanakapura Road,Konanakunte,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00284,2025-12-08,11:11,12.952494772608139,77.63316762205598,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00285,2026-05-21,18:28,13.084174079564177,77.59863053760509,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00286,2024-10-07,02:45,12.956523357807052,77.53814867994808,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00287,2025-03-20,09:02,12.936403909711935,77.52778621211577,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00288,2026-08-06,16:19,13.052982554587226,77.49487426869055,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00289,2024-01-19,00:36,12.912208961597223,77.58081466244901,Bannerghatta Road,Arekere,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00290,2025-06-05,07:53,12.928361103190738,77.6925648911025,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00291,2026-11-18,14:10,12.837508176790937,77.67668409888691,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00292,2024-04-04,22:27,12.890897145062148,77.58345438073863,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00293,2025-09-17,05:44,12.97509772199085,77.6412432855449,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00294,2026-02-03,12:01,13.054510992398763,77.57227188394769,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00295,2024-07-16,20:18,12.94437181673583,77.5117065863351,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00296,2025-12-02,03:35,13.063873501906958,77.52326345792571,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00297,2026-05-15,10:52,12.89719284563264,77.61746122968118,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00298,2024-10-01,18:09,12.880528766485382,77.59833347057891,Bannerghatta Road,Arekere,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00299,2025-03-14,01:26,12.945241772773333,77.67422648367375,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00300,2026-08-27,08:43,12.871482430464745,77.64346046801059,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00301,2024-01-13,16:00,12.8642907738732,77.57832348493082,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00302,2025-06-26,23:17,12.948513079621721,77.6694265426817,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00303,2026-11-12,06:34,13.081900085465834,77.60042547367176,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00304,2024-04-25,14:51,12.9612260524612,77.50322397074086,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00305,2025-09-11,21:08,13.032186848626395,77.49003105012373,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00306,2026-02-24,04:25,12.898031618188096,77.59916801797668,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00307,2024-07-10,12:42,12.953195786387594,77.71419465050869,Outer Ring Road,Marathahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00308,2025-12-23,19:59,12.84786256577352,77.6717997447356,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00309,2026-05-09,02:16,12.835230687462161,77.64888515859307,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00310,2024-10-22,10:33,12.88691779235884,77.54855602590838,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00311,2025-03-08,17:50,12.978636920810274,77.6431015896421,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00312,2026-08-21,00:07,13.057368192563029,77.60855155290471,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00313,2024-01-07,08:24,12.939926702599841,77.53681567649834,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00314,2025-06-20,15:41,13.062425687416832,77.50564787145397,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00315,2026-11-06,22:58,12.902097009623992,77.57925812628218,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00316,2024-04-19,06:15,12.920621647117436,77.68255193599218,Outer Ring Road,Marathahalli,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00317,2025-09-05,13:32,12.855171572477397,77.6694154595382,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00318,2026-02-18,20:49,12.898133715025596,77.58668206442424,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00319,2024-07-04,04:06,12.953637411279008,77.65282877762515,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00320,2025-12-17,11:23,12.945483632812834,77.63212062183739,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00321,2026-05-03,18:40,13.078513976586944,77.57818995342632,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00322,2024-10-16,02:57,12.965329112500024,77.52400179035705,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00323,2025-03-02,09:14,13.03427202487185,77.52771113393798,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00324,2026-08-15,16:31,12.893267423825495,77.60639854863484,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00325,2024-01-01,00:48,12.952621164669662,77.68188916289601,Outer Ring Road,Marathahalli,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00326,2025-06-14,07:05,12.852808951997234,77.64055590727855,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00327,2026-11-27,14:22,12.859236988172086,77.56796648492931,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00328,2024-04-13,22:39,12.967286472408114,77.6665501925376,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00329,2025-09-26,05:56,13.086099044935173,77.60726207753795,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00330,2026-02-12,12:13,12.946218861587045,77.50979975524315,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00331,2024-07-25,20:30,12.936243669946549,77.50000000843276,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00332,2025-12-11,03:47,13.059742775462745,77.50203385613466,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00333,2026-05-24,10:04,12.906630697076553,77.61338742540391,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00334,2024-10-10,18:21,12.921867089987224,77.71153493321535,Outer Ring Road,Marathahalli,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00335,2025-03-23,01:38,12.850242999925168,77.65682979450784,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00336,2026-08-09,08:55,12.898450945089857,77.54834389388608,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00337,2024-01-22,16:12,12.958465401597735,77.63691692352567,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00338,2025-06-08,23:29,13.048635620819933,77.60363119705146,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00339,2026-11-21,06:46,12.959271924345115,77.53880764152102,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00340,2024-04-07,14:03,13.063522126550392,77.51396654595797,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00341,2025-09-20,21:20,12.887501687302699,77.58206724798555,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00342,2026-02-06,04:37,12.889050400081992,77.57993898883403,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00343,2024-07-19,12:54,12.950728568660455,77.69786513561716,Outer Ring Road,Marathahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00344,2025-12-05,19:11,12.85762604980424,77.67889072304092,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00345,2026-05-18,02:28,12.859602255876004,77.58048553766692,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00346,2024-10-04,10:45,12.962353561361363,77.63752103585779,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00347,2025-03-17,17:02,13.087297825745736,77.57316507947345,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00348,2026-08-03,00:19,12.95077168239333,77.51348394003273,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00349,2024-01-16,08:36,13.028601353553995,77.52683553379383,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00350,2025-06-02,15:53,12.90602773806455,77.61573024464575,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00351,2026-11-15,22:10,12.950650918091513,77.689165893497,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00352,2024-04-01,06:27,12.839170872824607,77.63855080051789,Hosur Road,Electronic City,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00353,2025-09-14,13:44,12.84562891950543,77.64781697060224,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00354,2026-02-27,20:01,12.897410121052623,77.5796286166206,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00355,2024-07-13,04:18,12.963409489851356,77.66918429954173,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00356,2025-12-26,11:35,13.048108852452753,77.59633145201354,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00357,2026-05-12,18:52,12.954494855377744,77.50111422088833,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00358,2024-10-25,02:09,13.0655635315188,77.49324802720105,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00359,2025-03-11,09:26,12.891631500242536,77.60436018454898,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00360,2026-08-24,16:43,12.925899580098308,77.71222828750192,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00361,2024-01-10,00:00,12.862461180112241,77.6682900710129,Hosur Road,Electronic City,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00362,2025-06-23,07:17,12.886949428274528,77.55563388596543,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00363,2026-11-09,14:34,12.946298856747346,77.63034013863268,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00364,2024-04-22,22:51,12.95749225183022,77.64837020262463,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00365,2025-09-08,05:08,13.087142571125842,77.61137487837712,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00366,2026-02-21,12:25,12.955682217575475,77.53103687122514,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00367,2024-07-07,20:42,13.027199654240572,77.50167317521972,Tumakuru Road,Peenya,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00368,2025-12-20,03:59,12.901561631275321,77.57947363550647,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00369,2026-05-06,10:16,12.953468659093712,77.6873779986285,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00370,2024-10-19,18:33,12.842743575377083,77.6734784321003,Hosur Road,Electronic City,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00371,2025-03-05,01:50,12.866678403136529,77.58556726365528,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00372,2026-08-18,08:07,12.980089985027226,77.6453283257808,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00373,2024-01-04,16:24,13.073095637832003,77.57580431795505,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00374,2025-06-17,23:41,12.933943179648777,77.50710314474564,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00375,2026-11-03,06:58,12.949544172277943,77.52891802075166,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00376,2024-04-16,14:15,13.066298887715508,77.52814344788008,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00377,2025-09-02,21:32,12.896349028364238,77.60249483986975,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00378,2026-02-15,04:49,12.923668465559143,77.67594631929246,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00379,2024-07-01,12:06,12.85845105809366,77.64318631235197,Hosur Road,Electronic City,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00380,2025-12-14,19:23,12.89045200814656,77.57325573470052,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00381,2026-05-27,02:40,12.949198436776868,77.66854256539335,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00382,2024-10-13,10:57,13.05807031951197,77.60414497198938,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00383,2025-03-26,17:14,12.970645026650569,77.50618155042791,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00384,2026-08-12,00:31,13.055578967337162,77.48781880504296,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00385,2024-01-25,08:48,12.877144615643095,77.59717485870087,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00386,2025-06-11,15:05,12.896682332271578,77.61678121164833,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00387,2026-11-24,22:22,12.955070747756798,77.7096077731138,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00388,2024-04-10,06:39,12.847114909738892,77.6526946862496,Hosur Road,Electronic City,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00389,2025-09-23,13:56,12.86369032170972,77.54788852051406,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00390,2026-02-09,20:13,12.976666063718778,77.63810471790588,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00391,2024-07-22,04:30,13.077169321448963,77.60811361073615,Bellary Road,Hebbal,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00392,2025-12-08,11:47,12.936075482529649,77.53834288787627,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00393,2026-05-21,18:04,13.039794412177612,77.50982984585332,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00394,2024-10-07,02:21,12.915672562777209,77.58014828490585,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00395,2025-03-20,09:38,12.941497373555611,77.67834045993305,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00396,2026-08-06,16:55,12.837525848371309,77.6647036534657,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00397,2024-01-19,00:12,12.853801582879546,77.6799999878568,Hosur Road,Electronic City,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00398,2025-06-05,07:29,12.892868806549671,77.57686273239844,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00399,2026-11-18,14:46,12.953081632218986,77.63441004249582,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00400,2024-04-04,22:03,13.054422299624195,77.57516659609142,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00401,2025-09-17,05:20,12.967918486990849,77.51877387435634,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00402,2026-02-03,12:37,13.060091474799119,77.52615730394633,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00403,2024-07-16,20:54,12.878440401631083,77.61308029798262,Bannerghatta Road,Arekere,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00404,2025-12-02,03:11,12.931958977719455,77.68526553980836,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00405,2026-05-15,10:28,12.870135980262866,77.63899271141416,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00406,2024-10-01,18:45,12.87695416861137,77.5627369795259,Kanakapura Road,Konanakunte,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00407,2025-03-14,01:02,12.946890734422274,77.66353501964103,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00408,2026-08-27,08:19,12.972397389192327,77.66455917125371,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00409,2024-01-13,16:36,13.080322351761964,77.59213122911315,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00410,2025-06-26,23:53,12.939344444648876,77.50000841470357,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00411,2026-11-12,06:10,13.035604911655028,77.49731745667125,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00412,2024-04-25,14:27,12.91373194045707,77.60918205214837,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00413,2025-09-11,21:44,12.946302175556008,77.71243422156432,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00414,2026-02-24,04:01,12.837943040943802,77.66101245240868,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00415,2024-07-10,12:18,12.873864504132808,77.55316248359887,Kanakapura Road,Konanakunte,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00416,2025-12-23,19:35,12.979016983919296,77.63317188920165,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00417,2026-05-09,02:52,13.06265466525472,77.59863767524122,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00418,2024-10-22,10:09,12.936824178102235,77.53814971834827,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00419,2025-03-08,17:26,12.964169224760699,77.52777984634301,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00420,2026-08-21,00:43,13.06387835240565,77.49486849848577,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00421,2024-01-07,08:00,12.88098898129492,77.58081673911464,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00422,2025-06-20,15:17,12.92736403724711,77.69257220493384,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00423,2026-11-06,22:34,12.869044290810875,77.67668745873652,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00424,2024-04-19,06:51,12.88189524450953,77.58344956434986,Kanakapura Road,Konanakunte,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00425,2025-09-05,13:08,12.946415786579324,77.6412363455784,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00426,2026-02-18,20:25,13.072606902157654,77.57227154172234,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00427,2024-07-04,04:42,12.967316190592248,77.51171327191872,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00428,2025-12-17,11:59,13.038502757166093,77.52326876967736,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00429,2026-05-03,18:16,12.88229262161943,77.61745849242745,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00430,2024-10-16,02:33,12.910623835871968,77.5983261241725,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00431,2025-03-02,09:50,12.950599933667784,77.67422376019856,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00432,2026-08-15,16:07,12.839688481145416,77.64346579000413,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00433,2024-01-01,00:24,12.8690133297667,77.57833016434888,Kanakapura Road,Konanakunte,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00434,2025-06-14,07:41,12.978809676473148,77.66942618563151,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00435,2026-11-27,14:58,13.067571569349202,77.60041852885124,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00436,2024-04-13,22:15,12.935472512262237,77.50321916556885,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00437,2025-09-26,05:32,13.054680885245853,77.49003442316503,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00438,2026-02-12,12:49,12.916653109131365,77.59917533039689,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00439,2024-07-25,20:06,12.924797545339707,77.71419671293373,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00440,2025-12-11,03:23,12.838245134766446,77.67179396535663,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00441,2026-05-24,10:40,12.866678269667267,77.64887880024155,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00442,2024-10-10,18:57,12.886564327121118,77.54855707899911,Kanakapura Road,Konanakunte,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00443,2025-03-23,01:14,12.947301409707757,77.64310873077676,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00444,2026-08-09,08:31,13.06765702033333,77.60855580796037,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00445,2024-01-22,16:48,12.967999996800938,77.53681169823057,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00446,2025-06-08,23:05,13.043235828657783,77.50564065927333,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00447,2026-11-21,06:22,12.8801081288252,77.57925674359369,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00448,2024-04-07,14:39,12.946783388406402,77.68255812039317,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00449,2025-09-20,21:56,12.868865506902441,77.66942143921405,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00450,2026-02-06,04:13,12.867630120094443,77.58668032483438,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00451,2024-07-19,12:30,12.949615068716518,77.6528215048778,Old Airport Road,Domlur,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00452,2025-12-05,19:47,12.977262567771403,77.63211695545054,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00453,2026-05-18,02:04,13.072460362874786,77.57819450087592,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00454,2024-10-04,10:21,12.935469560527286,77.52400883695297,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00455,2025-03-17,17:38,13.04979302760916,77.52771182436226,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00456,2026-08-03,00:55,12.918205824566334,77.60639201524491,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00457,2024-01-16,08:12,12.929193092807726,77.681883616074,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00458,2025-06-02,15:29,12.835298749463416,77.64055831760616,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00459,2026-11-15,22:46,12.888216914912764,77.56797382339543,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00460,2024-04-01,06:03,12.97560818341249,77.66655323703675,Old Airport Road,Domlur,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00461,2025-09-14,13:20,13.054480603205882,77.60725700210817,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00462,2026-02-27,20:37,12.947922220231861,77.50979293807684,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00463,2024-07-13,04:54,12.967322037968286,77.50000001652823,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00464,2025-12-26,11:11,13.048185585099441,77.5020406793185,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00465,2026-05-12,18:28,12.879216698075057,77.61339248911571,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00466,2024-10-25,02:45,12.942116272565258,77.71153187398848,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00467,2025-03-11,09:02,12.871236712075653,77.65682245681231,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00468,2026-08-24,16:19,12.871545412135495,77.54834149885897,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00469,2024-01-10,00:36,12.946002465382556,77.63692248095029,Old Airport Road,Domlur,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00470,2025-06-23,07:53,13.079492702198483,77.60363772302199,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00471,2026-11-09,14:10,12.961951190870328,77.53880693497916,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00472,2024-04-22,22:27,13.031815546206841,77.51395949480091,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00473,2025-09-08,05:44,12.894875436008382,77.58206271326314,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00474,2026-02-21,12:01,12.918419030156425,77.57994266924239,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00475,2024-07-07,20:18,12.934043084591014,77.69787240605976,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00476,2025-12-20,03:35,12.833547786072298,77.67889244689611,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00477,2026-05-06,10:52,12.883922090588374,77.58047954859991,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00478,2024-10-19,18:09,12.978720880988728,77.63751486021084,Old Airport Road,Domlur,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00479,2025-03-05,01:26,13.05778850318195,77.57316647806016,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00480,2026-08-18,08:43,12.94376070665335,77.51349115527678,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00481,2024-01-04,16:00,13.060333604138837,77.5268394984405,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00482,2025-06-17,23:17,12.902977559464215,77.61572597640185,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00483,2026-11-03,06:34,12.91988576933834,77.68915875618038,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00484,2024-04-16,14:51,12.851975572588858,77.63854976345343,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00485,2025-09-02,21:08,12.872334158916054,77.64782333704837,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00486,2026-02-15,04:25,12.876138151225478,77.57963438599019,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00487,2024-07-01,12:42,12.943448826309412,77.66918222158192,Old Airport Road,Domlur,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00488,2025-12-14,19:59,13.075709630130879,77.59632413805541,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00489,2026-05-27,02:16,12.96570430591039,77.50111086223863,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00490,2024-10-13,10:33,13.034408640602548,77.49325284460856,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00491,2025-03-26,17:50,12.890300144083502,77.6043671240728,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00492,2026-08-12,00:07,12.957476596125485,77.71222862837946,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00493,2024-01-25,08:24,12.853780601220954,77.66828338487011,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00494,2025-06-11,15:41,12.858124711324123,77.55562857514593,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00495,2026-11-24,22:58,12.964118715730935,77.63034287713846,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00496,2024-04-10,06:15,12.98066693298889,77.64837754902958,Old Airport Road,Domlur,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00497,2025-09-23,13:32,13.0619748550055,77.61137760059916,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00498,2026-02-09,20:49,12.94048731319321,77.53103154830161,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00499,2024-07-22,04:06,13.057185127543548,77.50166649636351,Tumakuru Road,Peenya,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00500,2025-12-08,11:23,12.90724922151162,77.57947399390432,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00501,2026-05-21,18:40,12.921679855672727,77.68738494388892,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00502,2024-10-07,02:57,12.847135070349614,77.67348323625164,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00503,2025-03-20,09:14,12.897074821589888,77.58556388941543,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00504,2026-08-06,16:31,12.966060879995037,77.64532101349035,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00505,2024-01-19,00:48,13.047147343554643,77.57580225682503,Bellary Road,Hebbal,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00506,2025-06-05,07:05,12.956199554691153,77.50710892495745,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00507,2026-11-18,14:22,12.968435771230189,77.52892437842723,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00508,2024-04-04,22:39,13.038052666718597,77.52814239345406,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00509,2025-09-17,05:56,12.886413289262547,77.60248769841849,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00510,2026-02-03,12:13,12.955064951751392,77.67594206533676,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00511,2024-07-16,20:30,12.858432101656842,77.64319029175397,Hosur Road,Electronic City,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00512,2025-12-02,03:47,12.859061532358018,77.5732629466243,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00513,2026-05-15,10:04,12.95917018306955,77.6685439467567,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00514,2024-10-01,18:21,13.086299113521122,77.60413878686026,Bellary Road,Hebbal,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00515,2025-03-14,01:38,12.9517229459778,77.50617557153596,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00516,2026-08-27,08:55,13.033349683938821,77.48782054594365,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00517,2024-01-13,16:12,12.903114801855917,77.59718213163868,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00518,2025-06-26,23:29,12.910677404515077,77.6167848768659,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00519,2026-11-12,06:46,12.924663227940133,77.70960322460459,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00520,2024-04-25,14:03,12.842760967397721,77.65268764003532,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00521,2025-09-11,21:20,12.895478319906456,77.54788783143307,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00522,2026-02-24,04:37,12.970941176158743,77.63811125191265,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00523,2024-07-10,12:54,13.047196479008939,77.6081191566734,Bellary Road,Hebbal,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00524,2025-12-23,19:11,12.951303679443702,77.53834047627414,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00525,2026-05-09,02:28,13.06493894157166,77.5098225073246,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00526,2024-10-22,10:45,12.892471940762963,77.58014524163468,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00527,2025-03-08,17:02,12.92370892620978,77.67834553633823,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00528,2026-08-21,00:19,12.866366546677732,77.66471047012905,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00529,2024-01-07,08:36,12.862445683020391,77.6799999784121,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00530,2025-06-20,15:53,12.861287375265055,77.57685590871463,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00531,2026-11-06,22:10,12.954450867047655,77.63440497976163,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00532,2024-04-19,06:27,13.085569595835329,77.57516965654493,Bellary Road,Hebbal,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00533,2025-09-05,13:44,12.956673565796162,77.51878121198605,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00534,2026-02-18,20:01,13.032509538296145,77.52615969769788,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00535,2024-07-04,04:18,12.898430561976687,77.6130747396757,Bannerghatta Road,Arekere,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00536,2025-12-17,11:35,12.953202753996857,77.68525901445753,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00537,2026-05-03,18:52,12.843410183208276,77.638993419299,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00538,2024-10-16,02:09,12.864184180485717,77.56274403106148,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00539,2025-03-02,09:26,12.97766543500839,77.66353955330185,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00540,2026-08-15,16:43,12.975409827611692,77.66455548967771,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00541,2024-01-01,00:00,13.04859251539697,77.5921239588642,Bellary Road,Hebbal,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00542,2025-06-14,07:17,12.94639239510762,77.50000669215999,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00543,2026-11-27,14:34,13.065100096646692,77.49732344651953,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00544,2024-04-13,22:51,12.897332128626127,77.60918822706445,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00545,2025-09-26,05:08,12.922006780523843,77.71243282165308,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00546,2026-02-12,12:25,12.862046047936527,77.66100523691094,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00547,2024-07-25,20:42,12.890517703324777,77.55315852008816,Kanakapura Road,Konanakunte,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00548,2025-12-11,03:59,12.949633846956512,77.63317615854363,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00549,2026-05-24,10:16,13.055317801038575,77.59864481223812,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00550,2024-10-10,18:33,12.968533570590301,77.538150754077,Mysuru Road,Nayandahalli,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00551,2025-03-23,01:50,12.961452182116153,77.52777347922373,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00552,2026-08-09,08:07,13.033030436330135,77.49486272995156,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00553,2024-01-22,16:24,12.893486787641775,77.58081881836856,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00554,2025-06-08,23:41,12.954249348834962,77.69257951901852,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00555,2026-11-21,06:58,12.848022119996092,77.67669081618617,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00556,2024-04-07,14:15,12.86167530651598,77.58344474592379,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00557,2025-09-20,21:32,12.973848971840146,77.64122940649752,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00558,2026-02-06,04:49,13.084128764664321,77.57227120219258,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00559,2024-07-19,12:06,12.936229837502765,77.51171995862045,Mysuru Road,Nayandahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00560,2025-12-05,19:23,13.03683725815544,77.52327407956453,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00561,2026-05-18,02:40,12.91390704448937,77.6174557526697,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00562,2024-10-04,10:57,12.902265539469054,77.59831877776931,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00563,2025-03-17,17:14,12.921635625699304,77.67422103922975,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00564,2026-08-03,00:31,12.857230316927366,77.64347111385747,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00565,2024-01-16,08:48,12.892415753092207,77.57833684264301,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00566,2025-06-02,15:05,12.953847774711766,77.66942582588602,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00567,2026-11-15,22:22,13.052083666475923,77.60041158315119,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00568,2024-04-01,06:39,12.965345070480184,77.50321436243834,Mysuru Road,Nayandahalli,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00569,2025-09-14,13:56,13.060697275281827,77.49003779860332,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00570,2026-02-27,20:13,12.8848729702153,77.59918264255734,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00571,2024-07-13,04:30,12.928857493309962,77.71419877276865,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00572,2025-12-26,11:47,12.86873801033404,77.67178818431216,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00573,2026-05-12,18:04,12.852950128558762,77.64887244324213,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00574,2024-10-25,02:21,12.860424150903638,77.54855813476038,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00575,2025-03-11,09:38,12.96931765968216,77.64311587254439,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00576,2026-08-24,16:55,13.086816636240561,77.60856006081599,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00577,2024-01-10,00:12,12.93990892234384,77.53680771769449,Mysuru Road,Nayandahalli,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00578,2025-06-23,07:29,13.032982881218413,77.50563344760666,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00579,2026-11-09,14:46,12.911450043822423,77.57925536355555,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00580,2024-04-22,22:03,12.947098942868715,77.68256430625023,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00581,2025-09-08,05:20,12.837423540944771,77.6694274173219,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00582,2026-02-21,12:37,12.877283681167045,77.58667858262291,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00583,2024-07-07,20:54,12.977996237973827,77.65281423174977,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00584,2025-12-20,03:11,12.958610359612836,77.63211329140235,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00585,2026-05-06,10:28,13.049993137369096,77.57819905044458,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00586,2024-10-19,18:45,12.961245317102536,77.52401588278538,Mysuru Road,Nayandahalli,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00587,2025-03-05,01:02,13.064087688598867,77.52771251209994,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00588,2026-08-18,08:19,12.887897745580627,77.6063854806215,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00589,2024-01-04,16:36,12.924508032612595,77.68187807102171,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00590,2025-06-17,23:53,12.867092292380867,77.64056073048272,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00591,2026-11-03,06:10,12.882821387175353,77.56798116198651,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00592,2024-04-16,14:27,12.945525368108523,77.66655627907984,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00593,2025-09-02,21:44,13.069414308733588,77.60725192472778,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00594,2026-02-15,04:01,12.973270095107152,77.50978612191666,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00595,2024-07-01,12:18,12.944351433808466,77.50000002732217,Mysuru Road,Nayandahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00596,2025-12-14,19:35,13.030120861891076,77.50204750350203,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00597,2026-05-27,02:52,12.907914975657489,77.61339755087214,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00598,2024-10-13,10:09,12.951081805053251,77.71152881230843,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00599,2025-03-26,17:26,12.839695786888896,77.65681511924866,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00600,2026-08-12,00:43,12.872580371591553,77.5483391063831,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00601,2024-01-25,08:00,12.977215242183005,77.63692804013937,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00602,2025-06-11,15:17,13.068561294838753,77.60364424775288,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00603,2026-11-24,22:34,12.93420436982707,77.53880622575139,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00604,2024-04-10,06:51,13.051544471669581,77.51395244288702,Tumakuru Road,Peenya,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00605,2025-09-23,13:08,12.916366925003306,77.58205818066408,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00606,2026-02-09,20:25,12.891875927199308,77.57994635198591,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00607,2024-07-22,04:42,12.920967458026281,77.69787967611481,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00608,2025-12-08,11:59,12.864236699507378,77.67889416812804,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00609,2026-05-21,18:16,12.887267367464185,77.58047355797055,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00610,2024-10-07,02:33,12.946971300681986,77.63750868602582,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00611,2025-03-20,09:50,13.064509875277421,77.5731678792959,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00612,2026-08-06,16:07,12.973379181829355,77.51349837102798,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00613,2024-01-19,00:24,13.044221279792,77.5268434608151,Tumakuru Road,Peenya,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00614,2025-06-05,07:41,12.878467722315676,77.61572170596193,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00615,2026-11-18,14:58,12.94376928072242,77.68915161950345,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00616,2024-04-04,22:15,12.868912808053143,77.63854872906047,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00617,2025-09-17,05:32,12.843080459884902,77.64782970484059,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00618,2026-02-03,12:49,12.868476210628494,77.57964015368881,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00619,2024-07-16,20:06,12.975131850883876,77.66918014103398,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00620,2025-12-02,03:23,13.073326024183366,77.5963168238444,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00621,2026-05-15,10:40,12.93477703697514,77.50110750598914,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00622,2024-10-01,18:57,13.046598170187595,77.49325766405305,Tumakuru Road,Peenya,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00623,2025-03-14,01:14,12.917362551994692,77.60437406271053,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00624,2026-08-27,08:31,12.936706551203615,77.71222896656143,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00625,2024-01-13,16:48,12.833303626859628,77.6682766976097,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00626,2025-06-26,23:05,12.885387267671273,77.55562326619128,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00627,2026-11-12,06:22,12.975951714891481,77.63034561814806,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00628,2024-04-25,14:39,12.949652558580656,77.64838489543078,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00629,2025-09-11,21:56,13.059975397492288,77.61138032031464,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00630,2026-02-24,04:13,12.972135643600993,77.53102622351861,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00631,2024-07-10,12:30,13.049150038783575,77.5016598186317,Tumakuru Road,Peenya,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00632,2025-12-23,19:47,12.878148528496784,77.57947435499742,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00633,2026-05-09,02:04,12.938941726600246,77.68739189002835,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00634,2024-10-22,10:21,12.870762645498447,77.67348803836114,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00635,2025-03-08,17:38,12.872321497144934,77.58556051277878,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00636,2026-08-21,00:55,12.950281692939912,77.64531370146015,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00637,2024-01-07,08:12,13.076903680184374,77.57580019828525,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00638,2025-06-20,15:29,12.962544078590772,77.50711470683437,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00639,2026-11-06,22:46,12.936667814466576,77.52893073475029,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00640,2024-04-19,06:03,13.041780618303207,77.52814133635756,Tumakuru Road,Peenya,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00641,2025-09-05,13:20,12.916999246780135,77.60248055633474,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00642,2026-02-18,20:37,12.941639294093019,77.67593781358138,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00643,2024-07-04,04:54,12.832102936876344,77.643194273424,Hosur Road,Electronic City,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00644,2025-12-17,11:11,12.880835220352276,77.57327015803362,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00645,2026-05-03,18:28,12.978595695211782,77.66854532546961,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00646,2024-10-16,02:45,13.058366294919972,77.60413260027546,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00647,2025-03-02,09:02,12.94115392506851,77.50616959421242,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00648,2026-08-15,16:19,13.064633558599171,77.48782228946585,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00649,2024-01-01,00:36,12.90376483228959,77.5971894049567,Bannerghatta Road,Arekere,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00650,2025-06-14,07:53,12.879187428604467,77.6167885397446,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00651,2026-11-27,14:10,12.933997535269153,77.70959867397663,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00652,2024-04-13,22:27,12.871291370477335,77.65268059458502,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00653,2025-09-26,05:44,12.877098048818642,77.54788714503871,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00654,2026-02-12,12:01,12.948238495374998,77.63811778715247,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00655,2024-07-25,20:18,13.072774952906022,77.60812470084055,Bellary Road,Hebbal,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00656,2025-12-11,03:35,12.96589634694679,77.53833806212323,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00657,2026-05-24,10:52,13.03473365812658,77.50981516867141,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00658,2024-10-10,18:09,12.88745628128902,77.58014220081978,Bannerghatta Road,Arekere,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00659,2025-03-23,01:26,12.955504494716768,77.67835061469366,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00660,2026-08-09,08:43,12.861300975977608,77.66471728578583,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00661,2024-01-22,16:00,12.832256224628392,77.67999996626892,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00662,2025-06-08,23:17,12.875924936439676,77.5768490840316,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00663,2026-11-21,06:34,12.979999281724524,77.63439991898316,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00664,2024-04-07,14:51,13.062831552076684,77.5751727194514,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00665,2025-09-20,21:08,12.93833456625488,77.51878854948338,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00666,2026-02-06,04:25,13.061062218628976,77.52616208889803,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00667,2024-07-19,12:42,12.907716534444132,77.61306917960465,Bannerghatta Road,Arekere,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00668,2025-12-05,19:59,12.921705826077645,77.6852524903468,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00669,2026-05-18,02:16,12.844110752735189,77.6389941298697,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00670,2024-10-04,10:33,12.895458983027545,77.56275108335346,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00671,2025-03-17,17:50,12.967048751448063,77.66354408483902,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00672,2026-08-03,00:07,12.947501193239912,77.66455180576678,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00673,2024-01-16,08:24,13.068058022241708,77.5921166890033,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00674,2025-06-02,15:41,12.9681292179921,77.50000497223978,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00675,2026-11-15,22:58,13.038742625762902,77.49732943792978,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00676,2024-04-01,06:15,12.883952310923904,77.6091944005182,Bannerghatta Road,Arekere,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00677,2025-09-14,13:32,12.952606509944808,77.7124314190929,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00678,2026-02-27,20:49,12.865723792990195,77.66099802090652,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00679,2024-07-13,04:06,12.858751893341378,77.55315455884978,Kanakapura Road,Konanakunte,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00680,2025-12-26,11:23,12.956027896720348,77.63318043008135,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00681,2026-05-12,18:40,13.085056288019418,77.59865194859482,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00682,2024-10-25,02:57,12.95271051715206,77.53815178713413,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00683,2025-03-11,09:14,12.936730615771042,77.52776711075877,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00684,2026-08-24,16:31,13.056691808511875,77.49485696308871,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00685,2024-01-10,00:48,12.91070618464697,77.58082090021047,Bannerghatta Road,Arekere,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00686,2025-06-23,07:05,12.92512832573898,77.69258683335559,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00687,2026-11-09,14:22,12.840035951095318,77.67669417123541,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00688,2024-04-22,22:39,12.893328456278605,77.58343992546106,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00689,2025-09-08,05:56,12.9717990664238,77.64122246830316,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00690,2026-02-21,12:13,13.053125566115265,77.57227086535845,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00691,2024-07-07,20:30,12.948109741103815,77.51172664643934,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00692,2025-12-20,03:47,13.064073766933829,77.5232793875865,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00693,2026-05-06,10:04,12.893391424433919,77.61745301040834,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00694,2024-10-19,18:21,12.881533795274361,77.59831143137032,Bannerghatta Road,Arekere,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00695,2025-03-05,01:38,12.94872453552281,77.6742183207677,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00696,2026-08-18,08:55,12.869373142982878,77.64347643956994,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00697,2024-01-04,16:12,12.861476790252592,77.5783435198123,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00698,2025-06-17,23:29,12.951514580009897,77.66942546344532,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00699,2026-11-03,06:46,13.0837624013635,77.60040463657258,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00700,2024-04-16,14:03,12.957634078742846,77.50320956135,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00701,2025-09-02,21:20,13.031463418288395,77.49004117643817,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00702,2026-02-15,04:37,12.901852965624071,77.59918995445702,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00703,2024-07-01,12:54,12.952707605017233,77.7142008300132,Outer Ring Road,Marathahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00704,2025-12-14,19:11,12.844196003076185,77.67178240160298,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00705,2026-05-27,02:28,12.836881403872315,77.64886608759566,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00706,2024-10-13,10:45,12.890060972306179,77.54855919319206,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00707,2025-03-26,17:02,12.975989615189249,77.64312301494401,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00708,2026-08-12,00:19,13.055064377928527,77.60856431147097,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00709,2024-01-25,08:36,12.943304464907108,77.53680373489064,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00710,2025-06-11,15:53,13.06365853521879,77.50562623645493,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00711,2026-11-24,22:10,12.898328355659658,77.57925398616793,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00712,2024-04-10,06:27,12.92058370382088,77.68257049356255,Outer Ring Road,Marathahalli,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00713,2025-09-23,13:44,12.858952256895162,77.66943339386093,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00714,2026-02-09,20:01,12.896972939393045,77.58667683779005,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00715,2024-07-22,04:18,12.950224767027898,77.65280695824204,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00716,2025-12-08,11:35,12.947726435086615,77.63210962969329,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00717,2026-05-21,18:52,13.081215508975031,77.5782036021317,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00718,2024-10-07,02:09,12.962229751557665,77.52402292785334,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00719,2025-03-20,09:26,13.032553188265583,77.52771319715094,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00720,2026-08-06,16:43,12.896911765979796,77.6063789447655,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00721,2024-01-19,00:00,12.95318451157042,77.6818725277399,Outer Ring Road,Marathahalli,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00722,2025-06-05,07:17,12.848985992820467,77.6405631459079,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00723,2026-11-18,14:34,12.859885764004675,77.56798850070156,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00724,2024-04-04,22:51,12.970903728123462,77.66655931866646,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00725,2025-09-17,05:08,13.084303367531792,77.60724684539748,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00726,2026-02-03,12:25,12.943170950534235,77.50977930676353,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00727,2024-07-16,20:42,12.939005730223906,77.5000000408146,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00728,2025-12-02,03:59,13.061914936632215,77.50205432868434,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00729,2026-05-15,10:16,12.90317992268736,77.61340261067248,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00730,2024-10-01,18:33,12.920789045153134,77.71152574817562,Outer Ring Road,Marathahalli,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00731,2025-03-14,01:50,12.854035583523027,77.6568077818179,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00732,2026-08-27,08:07,12.89832649819319,77.54833671645875,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00733,2024-01-13,16:24,12.954712275630884,77.63693360109217,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00734,2025-06-26,23:41,13.04995004885299,77.60365077124325,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00735,2026-11-12,06:58,12.9626082925004,77.53880551383777,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00736,2024-04-25,14:15,13.06114985628025,77.5139453902172,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00737,2025-09-11,21:32,12.884917480651401,77.58205365018897,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00738,2026-02-24,04:49,12.89224202925315,77.57995003706412,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00739,2024-07-10,12:06,12.952300824596117,77.6978869457813,Outer Ring Road,Marathahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00740,2025-12-23,19:23,12.853935914875072,77.67889588673647,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00741,2026-05-09,02:40,12.85920000888628,77.58046756577963,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00742,2024-10-22,10:57,12.9661712343306,77.63750251330357,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00743,2025-03-08,17:14,13.086489626068223,77.57316928318048,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00744,2026-08-21,00:31,12.947210260447685,77.51350558728538,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00745,2024-01-07,08:48,13.03053875192387,77.52684742091712,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00746,2025-06-20,15:05,12.908974880730952,77.61571743332655,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00747,2026-11-06,22:22,12.947779086875464,77.6891444834672,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00748,2024-04-19,06:39,12.837134284454592,77.6385476973392,Hosur Road,Electronic City,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00749,2025-09-05,13:56,12.849146479579055,77.64783607397804,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00750,2026-02-18,20:13,12.898331417750923,77.57964591971572,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00751,2024-07-04,04:30,12.959599819760193,77.66917805789815,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00752,2025-12-17,11:47,13.048395464997146,77.59630950938153,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00753,2026-05-03,18:04,12.958213650948764,77.50110415214027,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00754,2024-10-16,02:21,13.064097822770686,77.49326248553385,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00755,2025-03-02,09:38,12.888377428151918,77.60438100046127,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00756,2026-08-15,16:55,12.928397037963956,77.71222930204773,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00757,2024-01-01,00:12,12.864923398218927,77.66827000923254,Hosur Road,Electronic City,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00758,2025-06-14,07:29,12.883671289683932,77.55561795910218,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00759,2026-11-27,14:46,12.944876018378972,77.63034836166109,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00760,2024-04-13,22:03,12.96122152124708,77.6483922418273,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00761,2025-09-26,05:20,13.087382992411024,77.61138303752318,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00762,2026-02-12,12:37,12.951876719223941,77.53102089687687,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00763,2024-07-25,20:54,13.028165819489624,77.50165314202516,Tumakuru Road,Peenya,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00764,2025-12-11,03:11,12.905060793407088,77.5794747187857,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00765,2026-05-24,10:28,12.951393035498006,77.6873988370459,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00766,2024-10-10,18:45,12.839902518767742,77.67349283842815,Hosur Road,Electronic City,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00767,2025-03-23,01:02,12.86965482350868,77.58555713374582,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00768,2026-08-09,08:19,12.981987325883857,77.64530638969123,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00769,2024-01-22,16:36,13.069517638976041,77.575798142336,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00770,2025-06-08,23:53,12.933180293426023,77.50712049037563,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00771,2026-11-21,06:10,12.953364054892218,77.52893708971995,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00772,2024-04-07,14:27,13.065850626672129,77.52814027659073,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00773,2025-09-20,21:44,12.892671273189997,77.60247341361946,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00774,2026-02-06,04:01,12.925282810373826,77.67593356402693,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00775,2024-07-19,12:18,12.861616962641499,77.64319825736153,Hosur Road,Electronic City,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00776,2025-12-05,19:35,12.88783386896824,77.57327736892752,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00777,2026-05-18,02:52,12.946862649912836,77.66854670153188,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00778,2024-10-04,10:09,13.061429052619555,77.60412641223581,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00779,2025-03-17,17:26,12.97191588015625,77.50616361845812,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00780,2026-08-03,00:43,13.051817292332013,77.48782403560932,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00781,2024-01-16,08:00,12.877066453866094,77.59719667865392,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00782,2025-06-02,15:17,12.900468789562488,77.6167922002839,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00783,2026-11-15,22:34,12.953948360234437,77.70959412123054,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00784,2024-04-01,06:51,12.843684321126817,77.65267354989966,Hosur Road,Electronic City,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00785,2025-09-14,13:08,12.8659004253842,77.54788646133109,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00786,2026-02-27,20:25,12.979395908016558,77.63812432362445,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00787,2024-07-13,04:42,13.074093682418534,77.60813024323686,Bellary Road,Hebbal,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00788,2025-12-26,11:59,12.934320812649373,77.53833564542386,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00789,2026-05-12,18:16,13.043426393861223,77.50980782989474,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00790,2024-10-25,02:33,12.916275662012271,77.58013916246155,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00791,2025-03-11,09:50,12.937674170815358,77.67835569499867,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00792,2026-08-24,16:07,12.838134949094808,77.66472410043507,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00793,2024-01-10,00:24,12.85743166170722,77.67999995142725,Hosur Road,Electronic City,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00794,2025-06-23,07:41,12.891108738508079,77.57684225835024,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00795,2026-11-09,14:58,12.950009607607122,77.63439486016111,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00796,2024-04-22,22:15,13.05715639608128,77.57517578481044,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00797,2025-09-08,05:32,12.970123628040122,77.51879588684733,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00798,2026-02-21,12:49,13.056658207497545,77.52616447754649,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00799,2024-07-07,20:06,12.877323826049942,77.61306361777027,Bannerghatta Road,Arekere,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00800,2025-12-20,03:23,12.935746270942529,77.68524596747702,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00801,2026-05-06,10:40,12.87005174150065,77.6389948431262,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00802,2024-10-19,18:57,12.873193584467307,77.56275813640087,Kanakapura Road,Konanakunte,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00803,2025-03-05,01:14,12.948167319040389,77.66354861425191,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00804,2026-08-18,08:31,12.975753214309387,77.66454811952141,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00805,2024-01-04,16:48,13.07798175580461,77.59210941953144,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00806,2025-06-17,23:05,12.936730738251454,77.50000325494317,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00807,2026-11-03,06:22,13.03877421982094,77.49733543090117,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00808,2024-04-16,14:39,12.915340773326092,77.60920057250877,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00809,2025-09-02,21:56,12.94262276440324,77.71243001388396,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00810,2026-02-15,04:13,12.837500816897263,77.66099080439639,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00811,2024-07-01,12:30,12.877684128611238,77.55315059988426,Kanakapura Road,Konanakunte,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00812,2025-12-14,19:47,12.978248142545285,77.63318470381424,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00813,2026-05-27,02:04,13.05907881269869,77.59865908431037,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00814,2024-10-13,10:21,12.93872679359568,77.5381528175195,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00815,2025-03-26,17:38,12.967141826435464,77.52776074094902,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00816,2026-08-12,00:55,13.061033231930967,77.49485119789797,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00817,2024-01-25,08:12,12.878918464902004,77.58082298464012,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00818,2025-06-11,15:29,12.930865643934062,77.69259414794405,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00819,2026-11-24,22:46,12.870004573776686,77.67669752388379,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00820,2024-04-10,06:03,12.878089166663068,77.58343510296234,Kanakapura Road,Konanakunte,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00821,2025-09-23,13:20,12.946662273884726,77.64121553099626,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00822,2026-02-09,20:37,13.076334827752797,77.57227053121998,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00823,2024-07-22,04:54,12.965887712281143,77.51173333537452,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00824,2025-12-08,11:11,13.035227750620022,77.52328469374255,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00825,2026-05-21,18:28,12.884759486610278,77.61745026564373,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00826,2024-10-07,02:45,12.913116688333405,77.59830408497653,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00827,2025-03-20,09:02,12.94734267490089,77.67421560481276,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00828,2026-08-06,16:19,12.838228388181843,77.6434817671408,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00829,2024-01-19,00:36,12.872733531450876,77.57835019585582,Kanakapura Road,Konanakunte,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00830,2025-06-05,07:53,12.979090227405136,77.66942509830945,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00831,2026-11-18,14:10,13.063762415063962,77.60039768911633,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00832,2024-04-04,22:27,12.93639970702945,77.50320476230448,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00833,2025-09-17,05:44,13.058196059448223,77.49004455666912,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00834,2026-02-03,12:01,12.914611379166324,77.59919726609495,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00835,2024-07-16,20:18,12.921929730209605,77.71420288466709,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00836,2025-12-02,03:35,12.841196145671594,77.67177661722985,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00837,2026-05-15,10:52,12.868610425471937,77.64885973330301,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00838,2024-10-01,18:09,12.883000699165427,77.54856025429402,Kanakapura Road,Konanakunte,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00839,2025-03-14,01:26,12.94649915204182,77.64313015797468,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00840,2026-08-27,08:43,13.071475015314649,77.60856855992476,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00841,2024-01-13,16:00,12.9675917057012,77.53679974981955,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00842,2025-06-26,23:17,13.039547288086238,77.50561902581912,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00843,2026-11-12,06:34,12.881685923357466,77.57925261143104,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00844,2024-04-25,14:51,12.949971667130335,77.6825766823293,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00845,2025-09-11,21:08,12.866276823960742,77.66943936883031,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00846,2026-02-24,04:25,12.865262619542074,77.58667509033603,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00847,2024-07-10,12:42,12.952954400856402,77.65279968435557,Old Airport Road,Domlur,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00848,2025-12-23,19:59,12.97857128631387,77.63210597032388,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00849,2026-05-09,02:16,13.068706083197267,77.57820815593662,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00850,2024-10-22,10:33,12.93535118892133,77.52402997215586,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00851,2025-03-08,17:50,13.053584838661706,77.52771387951518,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00852,2026-08-21,00:07,12.91712194938784,77.60637240767777,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00853,2024-01-07,08:24,12.925744939556171,77.68186698622928,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00854,2025-06-20,15:41,12.837475909908902,77.64056556388138,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00855,2026-11-06,22:58,12.890974768962026,77.5679958395396,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00856,2024-04-19,06:15,12.972556606727174,77.66656235579619,Old Airport Road,Domlur,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00857,2025-09-05,13:32,13.052690294270706,77.60724176411794,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00858,2026-02-18,20:49,12.951541439431704,77.5097724926184,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00859,2024-07-04,04:06,12.96796482278242,77.50000005700551,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00860,2025-12-17,11:23,13.044362561974461,77.5020611548645,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00861,2026-05-03,18:40,12.879786056269946,77.61340766851606,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00862,2024-10-16,02:57,12.9457587727028,77.71152268159045,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00863,2025-03-02,09:14,12.869512448212461,77.65680044452101,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00864,2026-08-15,16:31,12.868449613997692,77.54833432908626,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00865,2024-01-01,00:48,12.948708295390501,77.63693916380795,Old Airport Road,Domlur,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00866,2025-06-14,07:05,13.08173057904716,77.6036572934922,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00867,2026-11-27,14:22,12.95853581067435,77.53880479923842,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00868,2024-04-13,22:39,13.030660563469022,77.51393833679244,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00869,2025-09-26,05:56,12.89865701965263,77.58204912183842,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00870,2026-02-12,12:13,12.918375008852792,77.57995372447651,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00871,2024-07-25,20:30,12.930275458517437,77.6978942150583,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00872,2025-12-11,03:47,12.834786385974178,77.6788976027212,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00873,2026-05-24,10:04,12.887297001221064,77.58046157202796,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00874,2024-10-10,18:21,12.976412218417655,77.6374963420449,Old Airport Road,Domlur,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00875,2025-03-23,01:38,13.055145586341666,77.57317068971372,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00876,2026-08-09,08:55,12.946907343012876,77.51351280404798,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00877,2024-01-22,16:12,13.06197883586437,77.526851378746,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00878,2025-06-08,23:29,12.899309279350746,77.6157131584963,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00879,2026-11-21,06:46,12.91940361718343,77.68913734807259,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00880,2024-04-07,14:03,12.855796725793793,77.63854666828975,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00881,2025-09-20,21:20,12.87160476094627,77.64784244445988,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00882,2026-02-06,04:37,12.872548263859374,77.5796516840701,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00883,2024-07-19,12:54,12.945316448331667,77.66917597217474,Old Airport Road,Domlur,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00884,2025-12-05,19:11,13.078707361785712,77.59630219466776,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00885,2026-05-18,02:28,12.962886211094865,77.5011008006925,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00886,2024-10-04,10:45,13.032304425365936,77.49326730905032,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00887,2025-03-17,17:02,12.893785409801518,77.60438793732408,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00888,2026-08-03,00:19,12.958475759067989,77.71222963483834,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00889,2024-01-16,08:36,12.849978536902446,77.66826331973957,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00890,2025-06-02,15:53,12.858331046107601,77.55561265387936,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00891,2026-11-15,22:10,12.967855358717388,77.6303511076772,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00892,2024-04-01,06:27,12.979275843228743,77.6483995882181,Old Airport Road,Domlur,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00893,2025-09-14,13:44,13.05867927650455,77.61138575222441,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00894,2026-02-27,20:01,12.942923312259428,77.53101556837709,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00895,2024-07-13,04:18,13.059708338433426,77.50164646654484,Tumakuru Road,Peenya,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00896,2025-12-26,11:35,12.904013203104563,77.57947508526915,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00897,2026-05-12,18:52,12.920182669727232,77.68740578494061,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00898,2024-10-25,02:09,12.850845792523224,77.67349763645203,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00899,2025-03-11,09:26,12.897395471115347,77.585553752317,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00900,2026-08-24,16:43,12.962248491399874,77.64529907818455,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00901,2024-01-10,00:00,13.048035465211633,77.57579608897754,Bellary Road,Hebbal,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00902,2025-06-23,07:17,12.95973035188012,77.50712627558043,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00903,2026-11-09,14:34,12.966428160888727,77.52894344333536,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00904,2024-04-22,22:51,13.035158410497521,77.52813921415371,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00905,2025-09-08,05:08,12.889338564062218,77.60246627027364,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00906,2026-02-21,12:25,12.957031708639619,77.67592931667396,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00907,2024-07-07,20:42,12.854883239048633,77.64320224356602,Hosur Road,Electronic City,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00908,2025-12-20,03:59,12.858219992048376,77.573284579305,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00909,2026-05-06,10:16,12.96298586781558,77.66854807494333,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00910,2024-10-19,18:33,13.085930837557532,77.60412022274218,Bellary Road,Hebbal,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00911,2025-03-05,01:50,12.948024028282363,77.50615764427384,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00912,2026-08-18,08:07,13.034890753547362,77.48782578437383,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00913,2024-01-04,16:24,12.906325101855007,77.59720395272939,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00914,2025-06-17,23:41,12.908118464343488,77.6167958584833,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00915,2026-11-03,06:58,12.922264275750905,77.70958956636693,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00916,2024-04-16,14:15,12.846080528949326,77.65266650598019,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00917,2025-09-02,21:32,12.89682475862761,77.54788578031028,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00918,2026-02-15,04:49,12.967194707358718,77.63813086132771,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00919,2024-07-01,12:06,13.047037910676222,77.60813578386157,Bellary Road,Hebbal,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00920,2025-12-14,19:23,12.955100424553773,77.53833322617635,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00921,2026-05-27,02:40,13.063893698707904,77.50980049099559,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00922,2024-10-13,10:57,12.889006604537592,77.5801361265604,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00923,2025-03-26,17:14,12.925852902442962,77.67836077725256,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00924,2026-08-12,00:31,12.869152105219943,77.66473091407588,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00925,2024-01-25,08:48,12.859418506449993,77.6799999338871,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00926,2025-06-11,15:05,12.859461625438861,77.5768354316715,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00927,2026-11-24,22:22,12.9580569231633,77.63438980329616,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00928,2024-04-10,06:39,13.086251995080628,77.57517885262163,Bellary Road,Hebbal,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00929,2025-09-23,13:56,12.952851145445328,77.5188032240769,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00930,2026-02-09,20:13,13.03303909094189,77.52616686364291,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00931,2024-07-22,04:30,12.90208508024677,77.61305805417328,Bannerghatta Road,Arekere,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00932,2025-12-08,11:47,12.951514485165621,77.68523944584909,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00933,2026-05-21,18:04,12.840290954209078,77.63899555906838,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00934,2024-10-07,02:21,12.866861444544375,77.56276519020277,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00935,2025-03-20,09:38,12.979935799952644,77.66355314153995,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00936,2026-08-06,16:55,12.972012712559424,77.66454443094212,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00937,2024-01-19,00:12,13.047399253344025,77.59210215044958,Bellary Road,Hebbal,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00938,2025-06-05,07:29,12.950167850600982,77.5000015402704,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00939,2026-11-18,14:46,13.065096297674225,77.49734142543291,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00940,2024-04-04,22:03,12.893557877650176,77.60920674303533,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00941,2025-09-17,05:20,12.923207258612608,77.71242860602645,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00942,2026-02-03,12:37,12.865439670526195,77.66098358738155,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00943,2024-07-16,20:54,12.888241229678867,77.55314664319214,Kanakapura Road,Konanakunte,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00944,2025-12-02,03:11,12.946962012209847,77.6331889797417,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00945,2026-05-15,10:28,13.058441417300042,77.59866621938382,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00946,2024-10-01,18:45,12.970215019066616,77.538153845233,Mysuru Road,Nayandahalli,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00947,2025-03-14,01:02,12.957795439072825,77.52775436979532,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00948,2026-08-27,08:19,13.03250840943482,77.49484543438012,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00949,2024-01-13,16:36,12.897309046621313,77.58082507165722,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00950,2025-06-26,23:53,12.953559475004262,77.6926014627829,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00951,2026-11-12,06:10,12.844418595173696,77.67670087413083,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00952,2024-04-25,14:27,12.863507728345608,77.58343027842827,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00953,2025-09-11,21:44,12.97687150166519,77.64120859457779,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00954,2026-02-24,04:01,13.081338007434349,77.57227019977724,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00955,2024-07-10,12:18,12.934092156331682,77.51174002542506,Mysuru Road,Nayandahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00956,2025-12-23,19:35,13.040305797130996,77.52328999803196,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00957,2026-05-09,02:52,12.91494497681424,77.61744751837622,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00958,2024-10-22,10:09,12.898467909517512,77.59829673858896,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00959,2025-03-08,17:26,12.921801785122282,77.67421289136531,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00960,2026-08-21,00:43,12.860975263707406,77.64348709656932,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00961,2024-01-07,08:00,12.891062205858537,77.57835687077271,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00962,2025-06-20,15:17,12.950531989033566,77.66942473047845,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00963,2026-11-06,22:34,13.05448852998414,77.6003907407834,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-00964,2024-04-19,06:51,12.967898360511919,77.50319996530241,Mysuru Road,Nayandahalli,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-00965,2025-09-05,13:08,13.0574828554197,77.49004793929572,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-00966,2026-02-18,20:25,12.883338857006873,77.59920457747013,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-00967,2024-07-04,04:42,12.932558325244385,77.71420493673004,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-00968,2025-12-17,11:59,12.869098722961244,77.67177083119356,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-00969,2026-05-03,18:16,12.849134927635445,77.64885338036505,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-00970,2024-10-16,02:33,12.8612731011469,77.54856131806608,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-00971,2025-03-02,09:50,12.972863689044454,77.64313730163542,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-00972,2026-08-15,16:07,13.084843367739005,77.60857280617678,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-00973,2024-01-01,00:24,12.936988545388267,77.53679576248177,Mysuru Road,Nayandahalli,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-00974,2025-06-14,07:41,13.035882096122773,77.5056118157002,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-00975,2026-11-27,14:58,12.913451184099825,77.57925123934508,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-00976,2024-04-13,22:15,12.943565238420861,77.68258287254962,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-00977,2025-09-26,05:32,12.836542811138976,77.66944534222928,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-00978,2026-02-12,12:49,12.881096633331179,77.5866733402611,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-00979,2024-07-25,20:06,12.977668017909739,77.65279241009135,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-00980,2025-12-11,03:23,12.954901474215523,77.6321023132946,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-00981,2026-05-24,10:40,13.051497311477576,77.57821271185877,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-00982,2024-10-10,18:57,12.964477283038377,77.52403701569203,Mysuru Road,Nayandahalli,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-00983,2025-03-23,01:14,13.061558774438744,77.52771455919253,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-00984,2026-08-09,08:31,12.885467607287309,77.6063658693592,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-00985,2024-01-22,16:48,12.92780745614368,77.68186144649064,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-00986,2025-06-08,23:05,12.868476302247474,77.64056798440284,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-00987,2026-11-21,06:22,12.879083143938137,77.56800317849962,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-00988,2024-04-07,14:39,12.945326620600497,77.66656539046863,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-00989,2025-09-20,21:56,13.073215567650944,77.60723668088986,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-00990,2026-02-06,04:13,12.972263600252907,77.50976567948214,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-00991,2024-07-19,12:30,12.94086929817687,77.5000000758949,Mysuru Road,Nayandahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-00992,2025-12-05,19:47,13.032231416601704,77.50206798204161,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-00993,2026-05-18,02:04,12.910727930367596,77.61341272440221,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-00994,2024-10-04,10:21,12.948079363666796,77.71151961255335,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-00995,2025-03-17,17:38,12.837834798258415,77.656793107359,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-00996,2026-08-03,00:55,12.876172865479539,77.54833194426597,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-00997,2024-01-16,08:12,12.977937180326757,77.63694472828595,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-00998,2025-06-02,15:29,13.064739900354226,77.60366381449887,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-00999,2026-11-15,22:46,12.934694058309084,77.53880408195343,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-01000,2024-04-01,06:03,13.055210603564616,77.51393128261367,Tumakuru Road,Peenya,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-01001,2025-09-14,13:20,12.9147148380734,77.58204459561306,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-01002,2026-02-27,20:37,12.888733612596745,77.5799574142226,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-01003,2024-07-13,04:54,12.923615859797385,77.69790148394478,Outer Ring Road,Marathahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-01004,2025-12-26,11:11,12.86653930124738,77.67889931608195,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-01005,2026-05-12,18:28,12.883888893572022,77.58045557671636,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-01006,2024-10-25,02:45,12.945739891392481,77.63749017225065,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-01007,2025-03-11,09:02,13.068278784726132,77.57317209889544,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-01008,2026-08-24,16:19,12.973415605608555,77.51352002131482,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-01009,2024-01-10,00:36,13.040440821674114,77.52685533430123,Tumakuru Road,Peenya,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-01010,2025-06-23,07:53,12.879629945714036,77.61570888147176,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-01011,2026-11-09,14:10,12.947181239639232,77.68913021332057,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-01012,2024-04-22,22:27,12.866668775308385,77.63854564191224,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-01013,2025-09-08,05:44,12.840380002969166,77.64784881628523,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-01014,2026-02-21,12:01,12.871576461048262,77.5796574467512,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-01015,2024-07-07,20:18,12.976849329996528,77.66917388386403,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-01016,2025-12-20,03:35,13.06968122296401,77.59629487970408,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-01017,2026-05-06,10:52,12.934215193120998,77.50109745164627,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-01018,2024-10-19,18:09,13.050421111867445,77.49327213460182,Tumakuru Road,Peenya,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-01019,2025-03-05,01:26,12.91671227866313,77.604394873298,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-01020,2026-08-18,08:43,12.933089787788207,77.7122299649332,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-01021,2024-01-04,16:00,12.835100645671394,77.66825662913168,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-01022,2025-06-17,23:17,12.888434261111835,77.55560735052353,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-01023,2026-11-03,06:34,12.97318860414755,77.630353856196,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-01024,2024-04-16,14:51,12.94748164808857,77.6484069346022,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-01025,2025-09-02,21:08,13.063426825803278,77.61138846441797,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-01026,2026-02-15,04:25,12.973212230422636,77.53101023802,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-01027,2024-07-01,12:42,13.045357263547178,77.50163979219161,Tumakuru Road,Peenya,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-01028,2025-12-14,19:59,12.878274494167579,77.5794754544477,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-01029,2026-05-27,02:16,12.942694562657039,77.68741273371154,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-01030,2024-10-13,10:33,12.869446790611306,77.67350243243212,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-01031,2025-03-26,17:50,12.868985871303774,77.58555036849276,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-01032,2026-08-12,00:07,12.952655154703049,77.64529176694109,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-01033,2024-01-25,08:24,13.079486766742006,77.57579403821016,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-01034,2025-06-11,15:41,12.959351613067998,77.50713206244801,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-01035,2026-11-24,22:58,12.93509694380157,77.52894979559566,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-01036,2024-04-10,06:15,13.045471150364534,77.52813814904665,Tumakuru Road,Peenya,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-01037,2025-09-23,13:32,12.917399982582893,77.60245912629823,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-01038,2026-02-09,20:49,12.93782170313461,77.67592507152304,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-01039,2024-07-22,04:06,12.832912621738142,77.64320623203696,Hosur Road,Electronic City,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-01040,2025-12-08,11:23,12.884396089388622,77.57329178916511,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-01041,2026-05-21,18:40,12.976656986965255,77.66854944570377,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-01042,2024-10-07,02:57,13.055420120477597,77.60411403179538,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-01043,2025-03-20,09:14,12.944026759172232,77.50615167166039,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-01044,2026-08-06,16:31,13.06666886076558,77.48782753575912,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-01045,2024-01-19,00:48,12.900246677137162,77.5972112271821,Bannerghatta Road,Arekere,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-01046,2025-06-05,07:05,12.878267606787842,77.61679951434233,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-01047,2026-11-18,14:22,12.937807332807234,77.70958500938642,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-01048,2024-04-04,22:39,12.871003242642438,77.65265946282757,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-01049,2025-09-17,05:56,12.873379606244775,77.54788510197638,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-01050,2026-02-03,12:13,12.949705607490925,77.63813740026136,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-01051,2024-07-16,20:30,13.076028227042073,77.60814132271396,Bellary Road,Hebbal,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-01052,2025-12-02,03:47,12.963397738715997,77.53833080438105,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-01053,2026-05-15,10:04,13.032272602713833,77.50979315197493,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-01054,2024-10-01,18:21,12.890735201596375,77.58013309311676,Bannerghatta Road,Arekere,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-01055,2025-03-14,01:38,12.95692592253696,77.67836586145467,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-01056,2026-08-27,08:55,12.857571372078041,77.66473772670733,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-01057,2024-01-13,16:12,12.832017319943818,77.67999991364847,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-01058,2025-06-26,23:29,12.879730288414455,77.57682860399628,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-01059,2026-11-12,06:46,12.979031646285664,77.63438474838898,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-01060,2024-04-25,14:03,13.059333002465939,77.57518192288454,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-01061,2025-09-11,21:20,12.94041146583203,77.51881056117112,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-01062,2026-02-24,04:37,13.063902258149517,77.526169247187,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-01063,2024-07-10,12:54,12.904739160572785,77.61305248881443,Bannerghatta Road,Arekere,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-01064,2025-12-23,19:11,12.919809804630084,77.6852329254639,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-01065,2026-05-09,02:28,12.847689286753228,77.63899627769617,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-01066,2024-10-22,10:45,12.8962203801606,77.56277224475818,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-01067,2025-03-08,17:02,12.963228805808443,77.66355766670249,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-01068,2026-08-21,00:19,12.94795096335606,77.66454074002937,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-01069,2024-01-07,08:36,13.071735361968639,77.59209488175871,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-01070,2025-06-20,15:53,12.966513495828035,77.49999982822172,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-01071,2026-11-06,22:10,13.035577573370281,77.49734742152417,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-01072,2024-04-19,06:27,12.886571557263862,77.60921291209705,Bannerghatta Road,Arekere,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-01073,2025-09-05,13:44,12.954941093612522,77.71242719552058,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-01074,2026-02-18,20:01,12.86236433421121,77.66097636986295,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-01075,2024-07-04,04:18,12.85748247311629,77.55314268877395,Kanakapura Road,Konanakunte,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-01076,2025-12-17,11:35,12.959789842955216,77.63319325786318,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-01077,2026-05-03,18:52,13.085132930518645,77.59867335381416,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-01078,2024-10-16,02:09,12.948924270339713,77.53815487027447,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-01079,2025-03-02,09:26,12.937854455836002,77.52774799729852,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-01080,2026-08-15,16:43,13.060121726096416,77.49483967253596,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-01081,2024-01-01,00:00,12.908494841188567,77.58082716126148,Bannerghatta Road,Arekere,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-01082,2025-06-14,07:17,12.922399545559585,77.69260877787116,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-01083,2026-11-27,14:34,12.843112492516035,77.67670422197611,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-01084,2024-04-13,22:51,12.895081775925016,77.5834254518595,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-01085,2025-09-26,05:08,12.968166610460454,77.64120165904863,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-01086,2026-02-12,12:25,13.052523967491096,77.57226987103026,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-01087,2024-07-25,20:42,12.95193294233411,77.51174671659008,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-01088,2025-12-11,03:59,13.06346316607819,77.52329530045402,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-01089,2026-05-24,10:16,12.889761822754103,77.61744476860622,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-01090,2024-10-10,18:33,12.883295212161686,77.59828939220856,Bannerghatta Road,Arekere,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-01091,2025-03-23,01:50,12.951795655316397,77.67421018042572,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-01092,2026-08-09,08:07,12.866637984565362,77.6434924278548,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-01093,2024-01-22,16:24,12.85927289073102,77.57836354456207,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-01094,2025-06-08,23:41,12.954948515628157,77.66942435995237,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-01095,2026-11-21,06:58,13.084877523517777,77.6003837915747,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-01096,2024-04-07,14:15,12.953846578032424,77.50319517034445,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-01097,2025-09-20,21:32,13.031549176264246,77.49005132431749,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-01098,2026-02-06,04:49,12.905613275567527,77.59921188858162,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-01099,2024-07-19,12:06,12.951429588124626,77.71420698620177,Outer Ring Road,Marathahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-01100,2025-12-05,19:23,12.840840906282414,77.67176504349489,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-01101,2026-05-18,02:40,12.839223201179065,77.64884702878261,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-01102,2024-10-04,10:57,12.892673569475663,77.54856238450812,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-01103,2025-03-17,17:14,12.972819457370184,77.64314444592527,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-01104,2026-08-03,00:31,13.053456923681868,77.60857705022646,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-01105,2024-01-16,08:48,12.946984288601508,77.53679177287783,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-01106,2025-06-02,15:05,13.064099249840869,77.50560460609915,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-01107,2026-11-15,22:22,12.89450879722376,77.5792498699102,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-01108,2024-04-01,06:39,12.921354033679643,77.6825890642227,Outer Ring Road,Marathahalli,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-01109,2025-09-14,13:56,12.862527571463728,77.669451314057,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-01110,2026-02-27,20:13,12.895069005991308,77.58667158756548,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-01111,2024-07-13,04:30,12.947253121201873,77.65278513545037,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-01112,2025-12-26,11:47,12.950572570404365,77.63209865860594,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-01113,2026-05-12,18:04,13.083284747749001,77.5782172698975,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-01114,2024-10-25,02:21,12.95872753511462,77.52404405846087,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-01115,2025-03-11,09:38,13.031594376250423,77.52771523618294,Tumakuru Road,Peenya,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-01116,2026-08-24,16:55,12.900717987196854,77.60635932981069,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-01117,2024-01-10,00:12,12.952936507856712,77.68185590852471,Outer Ring Road,Marathahalli,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-01118,2025-06-23,07:29,12.84525840465321,77.64057040747193,Hosur Road,Electronic City,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-01119,2026-11-09,14:46,12.861315651737847,77.56801051758066,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-01120,2024-04-22,22:03,12.974177950364643,77.66656842268338,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-01121,2025-09-08,05:20,13.081835341793724,77.60723159571391,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-01122,2026-02-21,12:37,12.940679250408849,77.50975886735571,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-01123,2024-07-07,20:54,12.94226378437374,77.50000009748277,Mysuru Road,Nayandahalli,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-01124,2025-12-20,03:11,13.06337362507244,77.50207481021472,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-01125,2026-05-06,10:28,12.899459370944035,77.61341777833024,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-01126,2024-10-19,18:45,12.920510009735647,77.71151654106473,Outer Ring Road,Marathahalli,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-01127,2025-03-05,01:02,12.85784460735232,77.65678577033283,Hosur Road,Electronic City,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-01128,2026-08-18,08:19,12.897397829274357,77.54832956199817,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-01129,2024-01-04,16:36,12.951197699284863,77.63695029452543,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-01130,2025-06-17,23:53,13.051993063410926,77.60367033426239,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-01131,2026-11-03,06:10,12.96547510247599,77.53880336198289,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-01132,2024-04-16,14:27,13.058197879480524,77.51392422768184,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-01133,2025-09-02,21:44,12.882986636251646,77.58204007151348,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-01134,2026-02-15,04:01,12.89580620730413,77.57996110630188,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-01135,2024-07-01,12:18,12.953101596441725,77.69790875243979,Outer Ring Road,Marathahalli,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-01136,2025-12-14,19:35,12.850117840898605,77.67890102681852,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-01137,2026-05-27,02:52,12.859609810852866,77.58044957984563,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-01138,2024-10-13,10:09,12.969859374855806,77.63748400392166,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-01139,2025-03-26,17:26,13.084910447509401,77.57317351072544,Bellary Road,Hebbal,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-01140,2026-08-12,00:43,12.94402282059509,77.51352723908492,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-01141,2024-01-25,08:00,13.033128552916224,77.52685928758227,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-01142,2025-06-11,15:17,12.911341187918374,77.6157046022535,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-01143,2026-11-24,22:34,12.944439015057986,77.68912307921211,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-01144,2024-04-10,06:51,12.83582699380221,77.63854461820684,Hosur Road,Electronic City,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-01145,2025-09-23,13:08,12.85290104620162,77.64785518945324,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-01146,2026-02-09,20:25,12.89844827048685,77.57966320775823,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-01147,2024-07-22,04:42,12.955808203341613,77.6691717929663,Old Airport Road,Domlur,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-01148,2025-12-08,11:59,13.049480797334244,77.59628756449148,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-01149,2026-05-21,18:16,12.961661147553814,77.50109410500205,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-01150,2024-10-07,02:33,13.061919413365562,77.4932769621877,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-01151,2025-03-20,09:50,12.885620626749299,77.60440180838214,Bannerghatta Road,Arekere,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-01152,2026-08-06,16:07,12.93144952985255,77.7122302923323,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-01153,2024-01-19,00:24,12.86671236432945,77.66824993740977,Hosur Road,Electronic City,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-01154,2025-06-05,07:41,12.880051581042162,77.55560204903543,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-01155,2026-11-18,14:58,12.944234731573907,77.63035660721712,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-01156,2024-04-04,22:15,12.965044558849236,77.64841428097864,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-01157,2025-09-17,05:32,13.086812131616874,77.6113911741035,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-01158,2026-02-03,12:49,12.948234681029362,77.53100490580631,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-01159,2024-07-16,20:06,13.029891439486594,77.50163311896637,Tumakuru Road,Peenya,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-01160,2025-12-02,03:23,12.908155699620725,77.5794758263213,Bannerghatta Road,Arekere,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-01161,2026-05-15,10:40,12.948686132153327,77.68741968335777,Outer Ring Road,Marathahalli,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-01162,2024-10-01,18:57,12.837665874159669,77.67350722636778,Hosur Road,Electronic City,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-01163,2025-03-14,01:14,12.873070886342255,77.58554698227356,Kanakapura Road,Konanakunte,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-01164,2026-08-27,08:31,12.983140859941265,77.64528445596183,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
+RSA-01165,2024-01-13,16:48,13.065735832018598,77.57579199003415,Bellary Road,Hebbal,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Weather
+RSA-01166,2025-06-26,23:05,12.93322583421464,77.50713785097757,Mysuru Road,Nayandahalli,Property Damage,0,0,Storm,Wet,Poor,Pedestrian,Signal Violations
+RSA-01167,2026-11-12,06:22,12.957131422504998,77.52895614650001,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Lighting
+RSA-01168,2024-04-25,14:39,13.064610589233878,77.52813708126968,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Adequate,Bus,Overspeeding
+RSA-01169,2025-09-11,21:56,12.889297076809138,77.60245198169417,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Poor,Truck,Pedestrian Activity
+RSA-01170,2026-02-24,04:13,12.927592684017723,77.67592082857475,Outer Ring Road,Marathahalli,Property Damage,0,0,Storm,Wet,Poor,Car,Weather
+RSA-01171,2024-07-10,12:30,12.864258781242354,77.64321022277377,Hosur Road,Electronic City,Minor Injury,0,1,Fog,Damaged,Adequate,Two-wheeler,Signal Violations
+RSA-01172,2025-12-23,19:47,12.884686369748078,77.57329899850686,Kanakapura Road,Konanakunte,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Lighting
+RSA-01173,2026-05-09,02:04,12.945218790008779,77.66855081381303,Old Airport Road,Domlur,Minor Injury,0,1,Clear,Dry,Poor,Auto-rickshaw,Distracted Driving
+RSA-01174,2024-10-22,10:21,13.065097760638455,77.60410783939625,Bellary Road,Hebbal,Property Damage,0,0,Storm,Wet,Adequate,Bus,Pedestrian Activity
+RSA-01175,2025-03-08,17:38,12.972396524816276,77.5061457006186,Mysuru Road,Nayandahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Weather
+RSA-01176,2026-08-21,00:55,13.047996189194007,77.487829289765,Tumakuru Road,Peenya,Serious Injury,0,4,Rain,Under construction,Poor,Car,Signal Violations
+RSA-01177,2024-01-07,08:12,12.87779734345634,77.59721850201109,Bannerghatta Road,Arekere,Minor Injury,0,1,Clear,Dry,Adequate,Two-wheeler,Unsafe Road Geometry
+RSA-01178,2025-06-20,15:29,12.904058153922513,77.6168031678605,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Distracted Driving
+RSA-01179,2026-11-06,22:46,12.952079412418117,77.70958045028961,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Poor,Auto-rickshaw,Pedestrian Activity
+RSA-01180,2024-04-19,06:03,12.840687532839633,77.65265242044273,Hosur Road,Electronic City,Property Damage,0,0,Rain,Under construction,Adequate,Bus,Weather
+RSA-01181,2025-09-05,13:20,12.868719546885867,77.54788442632949,Kanakapura Road,Konanakunte,Minor Injury,0,1,Clear,Dry,Adequate,Truck,Poor Road Surface
+RSA-01182,2026-02-18,20:37,12.981498854360305,77.63814394042451,Old Airport Road,Domlur,Property Damage,0,0,Storm,Wet,Poor,Car,Unsafe Road Geometry
+RSA-01183,2024-07-04,04:54,13.070607792334627,77.60814685979325,Bellary Road,Hebbal,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Distracted Driving
+RSA-01184,2025-12-17,11:11,12.933323116563683,77.53832838003825,Mysuru Road,Nayandahalli,Serious Injury,0,4,Rain,Under construction,Adequate,Pedestrian,Pedestrian Activity
+RSA-01185,2026-05-03,18:28,13.047228617458133,77.50978581283377,Tumakuru Road,Peenya,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Traffic Congestion
+RSA-01186,2024-10-16,02:45,12.916067809870533,77.58013006213102,Bannerghatta Road,Arekere,Property Damage,0,0,Storm,Wet,Poor,Bus,Poor Road Surface
+RSA-01187,2025-03-02,09:02,12.933937849650183,77.67837094760428,Outer Ring Road,Marathahalli,Fatal,1,0,Fog,Damaged,Adequate,Truck,Unsafe Road Geometry
+RSA-01188,2026-08-15,16:19,12.83952745417527,77.6647445383285,Hosur Road,Electronic City,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Distracted Driving
+RSA-01189,2024-01-01,00:36,12.86072646963976,77.67999989071137,Hosur Road,Electronic City,Fatal,2,0,Clear,Dry,Poor,Two-wheeler,Overspeeding
+RSA-01190,2025-06-14,07:53,12.888671568441046,77.5768217753255,Kanakapura Road,Konanakunte,Property Damage,0,0,Storm,Wet,Adequate,Pedestrian,Traffic Congestion
+RSA-01191,2026-11-27,14:10,12.94748753856785,77.63437969544026,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Adequate,Auto-rickshaw,Poor Road Surface
+RSA-01192,2024-04-13,22:27,13.06039322344943,77.57518499559878,Bellary Road,Hebbal,Serious Injury,0,4,Rain,Under construction,Poor,Bus,Unsafe Road Geometry
+RSA-01193,2025-09-26,05:44,12.971619415642566,77.518817898129,Mysuru Road,Nayandahalli,Minor Injury,0,1,Clear,Dry,Poor,Truck,Poor Lighting
+RSA-01194,2026-02-12,12:01,13.052947119727087,77.52617162817842,Tumakuru Road,Peenya,Property Damage,0,0,Storm,Wet,Adequate,Car,Overspeeding
+RSA-01195,2024-07-25,20:18,12.87700469078513,77.6130469216945,Bannerghatta Road,Arekere,Fatal,2,0,Fog,Damaged,Poor,Two-wheeler,Traffic Congestion
+RSA-01196,2025-12-11,03:35,12.939558545017002,77.68522640632231,Outer Ring Road,Marathahalli,Serious Injury,0,4,Rain,Under construction,Poor,Pedestrian,Poor Road Surface
+RSA-01197,2026-05-24,10:52,12.8691621418934,77.63899699900944,Hosur Road,Electronic City,Minor Injury,0,1,Clear,Dry,Adequate,Auto-rickshaw,Signal Violations
+RSA-01198,2024-10-10,18:09,12.869663370403854,77.56277930006615,Kanakapura Road,Konanakunte,Serious Injury,0,2,Storm,Wet,Adequate,Bus,Poor Lighting
+RSA-01199,2025-03-23,01:26,12.950176222444002,77.66356218973895,Old Airport Road,Domlur,Fatal,1,0,Fog,Damaged,Poor,Truck,Overspeeding
+RSA-01200,2026-08-09,08:43,12.978646477421488,77.66453704678368,Old Airport Road,Domlur,Serious Injury,0,4,Rain,Under construction,Adequate,Car,Traffic Congestion
